@@ -18,11 +18,11 @@ info = "Student of computer science, aspiring software developer."
 
 avatarurl = "images/avatar.jpg"
 hideFooter = false
-footercontent = "Enter a text here."
+#footercontent = "Enter a text here."
 dateformat = "January 2, 2006"
 hideCredits = false
 hideCopyright = false
-since = 2019
+since = 2020
 
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 rtl = false

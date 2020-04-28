@@ -89,17 +89,17 @@ weight = 5
 
 [languages.pl]
 languagename = "Polski"
-title = "Szaciłowski"
+title = "Szacilowski"
 
   [languages.pl.params]
   author = "Piotr Szaciłowski"
   info = "Full Stack DevOps e Mágico"
   description = "Sítio pessoal de João Ninguém"
   keywords = "blog,desenvolvedor,pessoal"
-  footercontent = "Coloque algum texto aqui."
+#footercontent = "Coloque algum texto aqui."
 
 [[languages.pl.menu.main]]
-name = "Sobre"
+name = "O mnie"
 url = "about/"
 weight = 1
 
@@ -109,12 +109,12 @@ url = "posts/"
 weight = 2
 
 [[languages.pl.menu.main]]
-name = "Projetos"
+name = "Projekty"
 url = "projects/"
 weight = 3
 
 [[languages.pl.menu.main]]
-name = "Contato"
+name = "Kontakt"
 url = "contact/"
 weight = 5
 

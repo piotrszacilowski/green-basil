@@ -12,21 +12,26 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
 author = "Piotr Szaciłowski"
-description = "John Doe's personal website"
+description = "Piotr Szaciłowski personal website"
 keywords = "blog,developer,personal"
-info = "Full Stack DevOps and Magician"
+info = "Student of computer science, aspiring software developer."
+
 avatarurl = "images/avatar.jpg"
 hideFooter = false
 footercontent = "Enter a text here."
 dateformat = "January 2, 2006"
 hideCredits = false
 hideCopyright = false
-since = 2_019
+since = 2019
+
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 rtl = false
+
 colorscheme = "auto"
 maxSeeAlsoItems = 5
+
 custom_css = [ ]
+
 custom_js = [ ]
 
   [[params.social]]
@@ -36,28 +41,16 @@ custom_js = [ ]
   url = "https://github.com/piotrszacilowski/"
 
   [[params.social]]
-  name = "Gitlab"
-  icon = "fab fa-gitlab"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-
-  [[params.social]]
   name = "Twitter"
   icon = "fab fa-twitter"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
+  weight = 2
+  url = "https://twitter.com/szacilowski/"
 
   [[params.social]]
   name = "LinkedIn"
   icon = "fab fa-linkedin"
   weight = 4
-  url = "https://www.linkedin.com/in/johndoe/"
-
-  [[params.social]]
-  name = "Medium"
-  icon = "fab fa-medium"
-  weight = 5
-  url = "https://medium.com/@johndoe"
+  url = "https://www.linkedin.com/in/piotrszacilowski/"
 
   [[params.social]]
   name = "RSS"

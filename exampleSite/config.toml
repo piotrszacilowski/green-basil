@@ -94,8 +94,8 @@ title = "Szacilowski"
   [languages.pl.params]
   author = "Piotr Szaciłowski"
   info = "Full Stack DevOps e Mágico"
-  description = "Sítio pessoal de João Ninguém"
-  keywords = "blog,desenvolvedor,pessoal"
+  description = "Student informatyki, aspirujący do zostania programistą."
+  keywords = "blog,programista,pessoal"
 #footercontent = "Coloque algum texto aqui."
 
 [[languages.pl.menu.main]]

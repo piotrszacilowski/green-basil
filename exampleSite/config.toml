@@ -1,4 +1,4 @@
-title = "johndoe"
+title = "Szacilowski"
 baseurl = "http://www.example.com"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
+author = "Piotr Szaciłowski"
 description = "John Doe's personal website"
 keywords = "blog,developer,personal"
 info = "Full Stack DevOps and Magician"
@@ -33,7 +33,7 @@ custom_js = [ ]
   name = "Github"
   icon = "fab fa-github"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/piotrszacilowski/"
 
   [[params.social]]
   name = "Gitlab"

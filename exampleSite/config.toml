@@ -1,4 +1,4 @@
-title = "Szacilowski"
+title = "szacilowski.com"
 baseurl = "http://www.example.com"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -86,39 +86,3 @@ weight = 3
 name = "Contact me"
 url = "contact/"
 weight = 5
-
-[languages.pl]
-languagename = "Polski"
-title = "Szacilowski"
-
-  [languages.pl.params]
-  author = "Piotr Szaciłowski"
-  info = "Full Stack DevOps e Mágico"
-  description = "Student informatyki, aspirujący do zostania programistą."
-  keywords = "blog,programista,pessoal"
-#footercontent = "Coloque algum texto aqui."
-
-[[languages.pl.menu.main]]
-name = "O mnie"
-url = "about/"
-weight = 1
-
-[[languages.pl.menu.main]]
-name = "Blog"
-url = "posts/"
-weight = 2
-
-[[languages.pl.menu.main]]
-name = "Projekty"
-url = "projects/"
-weight = 3
-
-[[languages.pl.menu.main]]
-name = "Kontakt"
-url = "contact/"
-weight = 5
-
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"

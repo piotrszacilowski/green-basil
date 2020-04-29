@@ -30,7 +30,7 @@ rtl = false
 colorscheme = "auto"
 maxSeeAlsoItems = 5
 
-custom_css = [ ]
+custom_css = ["css/main.css"]
 
 custom_js = [ ]
 

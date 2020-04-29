@@ -3,4 +3,4 @@ title: Projects
 slug: projects
 ---
 
-Nothing to see here... Move along!
+All I can share is available on my GitHub profile.

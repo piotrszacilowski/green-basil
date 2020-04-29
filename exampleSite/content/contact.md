@@ -10,3 +10,4 @@ Also, you can find me on:
 * [LinkedIn](https://www.linkedin.com/in/piotrszacilowski/)
 * [Keybase](https://keybase.io/piotrszacilowski)
 * [Instagram](https://www.instagram.com/piotrszacilowski/)
+* [Telegram](https://t.me/piotrszacilowski)

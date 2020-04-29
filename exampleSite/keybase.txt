@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/piotrszacilowski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://szacilowski.com
+  * I am piotrszacilowski (https://keybase.io/piotrszacilowski) on keybase.
+  * I have a public key ASDHRvNjI00wTM92RIDTSzzTD0Zel6PWT4HYFB9KPMjMQgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010188f7d052f1afbcf206096743a9b7b73a29c88afac2921864547c24030c2810db0a",
+      "host": "keybase.io",
+      "kid": "0120c746f363234d304ccf764480d34b3cd30f465e97a3d64f81d8141f4a3cc8cc420a",
+      "uid": "e944782dc1f996bc3fe71592d904f919",
+      "username": "piotrszacilowski"
+    },
+    "merkle_root": {
+      "ctime": 1588180545,
+      "hash": "e5e237338384fa441a74815f80240ccdb047272f384c59d858acd795179057925d82a5b1dea74e57da2d208b986a086cca7cd077bfb4d1f930a233bad50e77e6",
+      "hash_meta": "f42771268e612e1f4a9225c1021bc26a013612dbd12bbb410e19d62d5132ac84",
+      "seqno": 16098445
+    },
+    "service": {
+      "entropy": "Jxj5fjaEDMsRlSjPfEGV/hUs",
+      "hostname": "szacilowski.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588180540,
+  "expire_in": 504576000,
+  "prev": "72754bcecc9976aa8ac5df1bb66e74c36d1b4a26cb61f724ad3bc43454479c37",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx0bzYyNNMEzPdkSA00s80w9GXpej1k+B2BQfSjzIzEIKp3BheWxvYWTESpcCFsQgcnVLzsyZdqqKxd8btm50w20bSibLYfckrTvENFRHnDfEIOP75w/ZScgNMP5QKTICJirq510winGEE3W50l7rvmqEAgHCo3NpZ8RAqaFmSgxR/duOinv/UE/ZclrzT8nS1pJAC6HsYVYYQLKOlt48/OoowI1b3n/BE+qBNZreMB/wZl0cynEsrOkuDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICYrjRjFRfiVLZERZjMkTuY5CTRtoQFht4ntQP1aFUS6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/piotrszacilowski
+
+==================================================================

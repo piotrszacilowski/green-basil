@@ -52,14 +52,6 @@ custom_js = [ ]
   weight = 4
   url = "https://www.linkedin.com/in/piotrszacilowski/"
 
-  [[params.social]]
-  name = "RSS"
-  icon = "fas fa-rss"
-  weight = 6
-  url = "https://myhugosite.com/index.xml"
-  rel = "alternate"
-  type = "application/rss+xml"
-
   [params.fathomAnalytics]
   siteID = "ABCDE"
   serverURL = "analytics.example.com"

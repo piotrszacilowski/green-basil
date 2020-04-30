@@ -5,10 +5,15 @@ defaultcontentlanguage = "en"
 theme = "hugo-coder"
 paginate = 20
 canonifyurls = true
+
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
 disqusShortname = "yourdiscussshortname"
+
+googleAnalytics = "UA-97034063-2"
+
 
 [params]
 author = "Piotr Szaciłowski"

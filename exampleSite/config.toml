@@ -82,7 +82,7 @@ weight = 3
 [[languages.en.menu.main]]
 name = "Newsletter"
 url = "https://mailchi.mp/df41fedcfe18/szacilowskicom-newsletter"
-weight = 3
+weight = 4
 
 [[languages.en.menu.main]]
 name = "Contact me"

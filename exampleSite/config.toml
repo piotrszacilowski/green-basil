@@ -19,7 +19,7 @@ googleAnalytics = "UA-97034063-2"
 author = "Piotr Szaciłowski"
 description = "Piotr Szaciłowski personal website"
 keywords = "blog,developer,personal"
-info = "Student of computer science, aspiring software developer."
+info = "Software developer and geek"
 
 avatarurl = "images/avatar.jpg"
 hideFooter = false
@@ -27,7 +27,7 @@ hideFooter = false
 dateformat = "January 2, 2006"
 hideCredits = false
 hideCopyright = false
-since = 2020
+since = 2021
 
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 rtl = false
@@ -44,12 +44,6 @@ custom_js = [ ]
   icon = "fab fa-github"
   weight = 1
   url = "https://github.com/piotrszacilowski/"
-
-  [[params.social]]
-  name = "Twitter"
-  icon = "fab fa-twitter"
-  weight = 2
-  url = "https://twitter.com/szacilowski/"
 
   [[params.social]]
   name = "LinkedIn"
@@ -69,20 +63,15 @@ name = "About"
 url = "about/"
 weight = 1
 
-[[languages.en.menu.main]]
-name = "Blog"
-url = "posts/"
-weight = 2
+#[[languages.en.menu.main]]
+#name = "Blog"
+#url = "posts/"
+#weight = 2
 
-[[languages.en.menu.main]]
-name = "Projects"
-url = "projects/"
-weight = 3
-
-[[languages.en.menu.main]]
-name = "Newsletter"
-url = "https://mailchi.mp/df41fedcfe18/szacilowskicom-newsletter"
-weight = 4
+#[[languages.en.menu.main]]
+#name = "Projects"
+#url = "projects/"
+#weight = 3
 
 [[languages.en.menu.main]]
 name = "Contact me"
